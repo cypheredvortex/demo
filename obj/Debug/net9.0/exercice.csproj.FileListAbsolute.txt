@@ -1,0 +1,14 @@
+C:\Users\Dell\csharpprojects\exercice\obj\Debug\net9.0\exercice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\csharpprojects\exercice\obj\Debug\net9.0\exercice.AssemblyInfoInputs.cache
+C:\Users\Dell\csharpprojects\exercice\obj\Debug\net9.0\exercice.AssemblyInfo.cs
+C:\Users\Dell\csharpprojects\exercice\obj\Debug\net9.0\exercice.csproj.CoreCompileInputs.cache
+C:\Users\Dell\csharpprojects\exercice\bin\Debug\net9.0\exercice.exe
+C:\Users\Dell\csharpprojects\exercice\bin\Debug\net9.0\exercice.deps.json
+C:\Users\Dell\csharpprojects\exercice\bin\Debug\net9.0\exercice.runtimeconfig.json
+C:\Users\Dell\csharpprojects\exercice\bin\Debug\net9.0\exercice.dll
+C:\Users\Dell\csharpprojects\exercice\bin\Debug\net9.0\exercice.pdb
+C:\Users\Dell\csharpprojects\exercice\obj\Debug\net9.0\exercice.dll
+C:\Users\Dell\csharpprojects\exercice\obj\Debug\net9.0\refint\exercice.dll
+C:\Users\Dell\csharpprojects\exercice\obj\Debug\net9.0\exercice.pdb
+C:\Users\Dell\csharpprojects\exercice\obj\Debug\net9.0\exercice.genruntimeconfig.cache
+C:\Users\Dell\csharpprojects\exercice\obj\Debug\net9.0\ref\exercice.dll
